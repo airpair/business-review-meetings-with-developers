@@ -7,7 +7,7 @@ In all tech firms ranging from product startups to large IT service MNCs, all th
 
 So if you are planning a Business Meeting amongst senior management and do not have any representation from the Developers, read this article to know what are you doing wrong. Also if you are a developer, and petrified from Business read this article to know how you can contribute to Business for growth.
 
-<img src="http://s12.postimg.org/c2i55jqzx/Business_Meetings_v_s_Developers_1.png">
+<img src="https://cloud.githubusercontent.com/assets/4088925/6925123/f006b8d8-d7fa-11e4-87f8-9f4bd557f8dd.png">
 
 ### Business Plans & Strategic Planning
 
@@ -15,7 +15,7 @@ MBAs and wannabe Entrepreneurs tend to make ambitious technology based Business 
 
 Even in well established companies, strategic planning and business decisions are taken in closed board rooms without consulting the actual people who will work for those goals and decisions.
 
-<img src="http://s12.postimg.org/kix2jpegd/Dream_Business_Plans.png">
+<img src="https://cloud.githubusercontent.com/assets/4088925/6925057/88f81614-d7fa-11e4-8d16-a31c7e999dd1.png">
 
 ## How Technology drives Business today
 
