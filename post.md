@@ -1,7 +1,7 @@
 
 ## Introduction
 
-In my experience, in every tech firm, whether it be a product startup or a large IT service MNC, developers are afraid of the word 'Business'; and business managers try to avoid dealing with developers. 
+In my experience, in every tech firm, whether it be a product startup or a large IT service MNC, developers are afraid of the word 'Business'; and business managers try to avoid dealing with developers.  
 
 Business is the soul of any organization, the sole purpose for the enterprise's existence. Yet no tech firm can grow or scale without developers to build the product or provide services to clients - in that senes, developers are the backbone of any technical organization. 
 
