@@ -11,7 +11,7 @@ If you are planning a business meeting amongst senior management and don't have 
 
 <img src="https://cloud.githubusercontent.com/assets/4088925/6925123/f006b8d8-d7fa-11e4-87f8-9f4bd557f8dd.png">
 
-### Business Plans & Strategic Planning
+### Business Plans and Strategic Planning
 
 MBAs and wannabe entrepreneurs tend to make ambitious technology based business plans without consulting developers. If you are a developer, you must have heard an entrepreneur boasting at some stage, "we will reach **XX million users/customers** in just 1,2 or 3 years" without even having considering the feasibility of the technical solution. I myself have read through several detailed business plans which must have taken hours of effort to create, when a developer would have been able to determine in just 2 hours whether or not the idea was not technically feasible, or if it required modifications to be achieved.
 
